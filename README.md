@@ -1,5 +1,5 @@
 # Portfolio
-My Online Portfolio
+Online Portfolio
 Designed and Developed by Steven Kruse
 This Portfolio showcases the work I have completed over the years
 
